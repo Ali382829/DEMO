@@ -2,7 +2,7 @@
 name: Custom issue template
 about: Describe this issue template's purpose here.
 title: ''
-labels: bug, nothing support
+labels: bug, common, question
 assignees: ''
 
 ---
@@ -10,4 +10,5 @@ assignees: ''
 Error: 
 Logs: 
 Unsupported: 
-Motherboard Issues:
+Motherboard Issues: 
+At;
